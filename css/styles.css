@@ -42,7 +42,7 @@ p {
 /* Navigation Bar */
 .navbar {
   padding-bottom: 4.5rem;
-  padding-top: 4.5rem;
+  padding-top: 2.5rem;
 }
 
 
@@ -133,7 +133,7 @@ p {
 }
 
 .testimonial-img {
-  width: 70%;
+  width: 50%;
   /* border-radius: 10%; */
   margin: 30px 0 20px;
 }
