@@ -258,7 +258,7 @@ a {
 	}
 
 	.navbar-text {
-		display: none;
+		font-size: 2rem;
 	}
 
 	h1 {
