@@ -61,9 +61,9 @@ a {
 	padding: 20% 12% 25%;
 }
 .mail-title {
-  margin: 0 auto;
+	margin: 0 auto;
 	margin-top: 50px;
-  max-width: 50%;
+	max-width: 50%;
 }
 
 /* .btn-dark {
@@ -75,15 +75,15 @@ a {
 /* Buttons */
 .cta-button {
 	margin: 5% 3% 5% 0;
-  font-size: 2rem;
-  min-width: 300px;
-  max-width: 300px;
+	font-size: 2rem;
+	min-width: 300px;
+	max-width: 300px;
 }
 
 /* Title Image */
 .image-div {
 	text-align: center;
-  
+
 	/* position: static; */
 }
 .title-image {
@@ -267,7 +267,7 @@ a {
 		color: #f2f4f7;
 		font-size: 6rem;
 		padding: 2rem;
-    margin-top: 50px;
+		margin-top: 50px;
 	}
 
 	.image-div {
@@ -297,6 +297,5 @@ a {
 	}
 	.cta-heading {
 		font-size: 5rem;
-    
 	}
 }
